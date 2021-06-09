@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-compta-dev-175159-authRole",
+      "UnauthRoleArn": "arn:aws:iam::305718416858:role/amplify-compta-dev-175159-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::305718416858:role/amplify-compta-dev-175159-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-compta-dev-175159-deployment",
+      "UnauthRoleName": "amplify-compta-dev-175159-unauthRole",
+      "StackName": "amplify-compta-dev-175159",
+      "StackId": "arn:aws:cloudformation:us-east-2:305718416858:stack/amplify-compta-dev-175159/f11f69b0-c94b-11eb-ab71-02eb4188c8d4",
+      "AmplifyAppId": "d3uk4e5in7a1da"
+    },
+    "categories": {
+      "function": {
+        "compta3980472839804728PostConfirmation": {
+          "deploymentBucketName": "amplify-compta-dev-175159-deployment",
+          "s3Key": "amplify-builds/compta3980472839804728PostConfirmation-436b33346d4963474858-build.zip"
+        }
+      },
+      "auth": {
+        "compta3980472839804728": {}
+      }
+    }
+  }
+}

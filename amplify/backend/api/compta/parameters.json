@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "compta",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authcompta3980472839804728",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

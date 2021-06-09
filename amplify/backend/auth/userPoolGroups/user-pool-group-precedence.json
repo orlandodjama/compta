@@ -1,0 +1,22 @@
+[
+  {
+    "groupName": "Admin",
+    "precedence": 1
+  },
+  {
+    "groupName": "Entreprise",
+    "precedence": 2
+  },
+  {
+    "groupName": "Assistant",
+    "precedence": 3
+  },
+  {
+    "groupName": "Comptable",
+    "precedence": 4
+  },
+  {
+    "groupName": "Expert",
+    "precedence": 5
+  }
+]
