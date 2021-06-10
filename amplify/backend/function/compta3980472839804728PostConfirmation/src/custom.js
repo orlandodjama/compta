@@ -19,7 +19,7 @@ exports.handler = async (event,context)=>{
     }
 
     try{
-      await ddb.PutItem(params).promise()
+      await ddb.putItem(params).promise()
       console.log("Success")
     } catch(err){
       console.log("Error",err)
