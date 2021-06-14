@@ -15,7 +15,7 @@
       "function": {
         "compta3980472839804728PostConfirmation": {
           "deploymentBucketName": "amplify-compta-dev-175159-deployment",
-          "s3Key": "amplify-builds/compta3980472839804728PostConfirmation-43714563757162796463-build.zip"
+          "s3Key": "amplify-builds/compta3980472839804728PostConfirmation-436b33346d4963474858-build.zip"
         }
       },
       "auth": {

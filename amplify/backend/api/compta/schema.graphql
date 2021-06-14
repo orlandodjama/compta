@@ -8,3 +8,11 @@ type User @model
   username: String!
   email: String!
 }
+
+type Document @model {
+  id: ID!
+  nom: String!
+  numeropiece: String
+  image: String
+  dateupload: AWSDateTime
+}
